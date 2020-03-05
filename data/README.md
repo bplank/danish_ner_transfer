@@ -2,7 +2,8 @@ Data for Transfer for NER in Danish paper (Plank, 2019, NoDaLiDa).
 
 If you spot a mistake, please file a github issue.
 
-Data is the UD Danish https://github.com/UniversalDependencies/UD_Danish-DDT
+The data originatees from the Danish Universal Dependencies (UD): 
+https://github.com/UniversalDependencies/UD_Danish-DDT
 
 ## References (from UD repository)
 
