@@ -28,10 +28,10 @@ If you use this resource, please cite the paper and the references to the Danish
 * Plank, Barbara. Neural Cross-Lingual Transfer and Limited Annotated Data for Named Entity Recognition in Danish. NoDaLiDa, 2019.
 
 * Johannsen, Anders, Martínez Alonso, Héctor and Plank, Barbara.
-  "Universal Dependencies for Danish". TLT14, 2015.
+  Universal Dependencies for Danish. TLT14, 2015.
 
 * Buch-Kromann, Matthias T., Line Mikkelsen, and Stine Kern Lynge.
-  "Danish dependency treebank.". TLT, 2003.
+  Danish dependency treebank. TLT, 2003.
 
 * Keson, Britt (1998). Documentation of The Danish Morpho-syntactically Tagged PAROLE Corpus.
 Technical report, DSL
