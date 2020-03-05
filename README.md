@@ -1,4 +1,5 @@
-# transfer_ner
+# Danish Named Enity Recognition (NER) data and Cross-Transfer with Limited Supervision
+
 Repository accompanying NER (Named Entity Recognition) transfer paper (NoDaLiDa 2019)
 
 ## Data overview
