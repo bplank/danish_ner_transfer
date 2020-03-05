@@ -1,6 +1,13 @@
-# Danish Named Enity Recognition (NER) data and Cross-Transfer with Limited Supervision
+# Danish Named Enity Recognition (NER) 
 
-Repository accompanying NER (Named Entity Recognition) transfer paper (NoDaLiDa 2019)
+Repository accompanying the NER (Named Entity Recognition) transfer paper by Plank (2019) at NoDaLiDa: *Neural Cross-Lingual Transfer and Limited Annotated Data for Named Entity Recognition in Danish*
+
+**Abstract** Named Entity Recognition (NER) has greatly advanced by the introduction of deep neural architectures.
+However, the success of these methods depends on large amounts of training data.
+The scarcity of publicly-available human-labeled datasets
+has resulted in limited evaluation of existing NER systems, as is the case for Danish.
+This paper studies the effectiveness of cross-lingual transfer for Danish, evaluates its complementarity to limited gold data,
+and sheds light on performance of Danish NER.
 
 ## Data overview
 
