@@ -42,4 +42,6 @@ If you use this resource, please cite the paper and the references to the Danish
   Danish dependency treebank. TLT, 2003.
 
 * Keson, Britt. Documentation of The Danish Morpho-syntactically Tagged PAROLE Corpus.
-Technical report, DSL, 1998. [or Bilgram, Thomas and Keson, Britt. The Construction of a Tagged Danish Corpus. In NoDaLiDa, 1998.
+Technical report, DSL, 1998. Or:
+
+* Bilgram, Thomas and Keson, Britt. The Construction of a Tagged Danish Corpus. In NoDaLiDa, 1998.
