@@ -7,7 +7,7 @@ Repository accompanying NER (Named Entity Recognition) transfer paper (NoDaLiDa 
 
 
 | :---------- | ---------------------------------: | ----------------------------------: | ----------------------------------: | -----------------------------------: |
-
+|             |                                    |                                     |                                     |                                      |
 |             | <span class="smallcaps">Dev</span> | <span class="smallcaps">Test</span> | <span class="smallcaps">Train Tiny (5k)</span> | <span class="smallcaps">Train Small (10k)</span> |
 | Sentences   |                                564 |                                 565 |                                 272 |                                  604 |
 | Tokens      |                             10,332 |                              10,023 |                               4,669 |                               10,069 |
