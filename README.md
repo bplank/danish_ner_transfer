@@ -1,4 +1,4 @@
-# Danish Named Enity Recognition (NER) 
+# Danish Named Enity Recognition (NER) - Cross-lingual Transfer
 
 Repository accompanying the NER (Named Entity Recognition) transfer paper by Plank (2019) at NoDaLiDa: *Neural Cross-Lingual Transfer and Limited Annotated Data for Named Entity Recognition in Danish*
 
