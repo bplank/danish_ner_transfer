@@ -1,4 +1,4 @@
-Data for Transfer for NER in Danish paper (Plank, 2019, NoDaLiDa().
+Data for Transfer for NER in Danish paper (Plank, 2019, NoDaLiDa).
 
 If you spot a mistake, please file a github issue.
 
